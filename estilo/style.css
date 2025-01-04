@@ -187,14 +187,21 @@ aside > ul {
 footer {
     background-color: var(--cor5);
     color: white;
-    text-align: center;
+    text-align: center ;
     font-size: 0.8em;
-    padding: 5px;
+    padding: 50px;
 }
+footer p {
+    
+  
+}
+
 
 footer a {
     color: white;
     font-weight: bolder;
+    text-align: center ;
+    
     text-decoration: none;
 }
 
